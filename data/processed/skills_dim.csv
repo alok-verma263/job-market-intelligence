@@ -1,0 +1,20 @@
+Skill_ID,Skill_Name,Skill_Category
+1,SQL,Technical / Analytics
+2,Python,Technical / Analytics
+3,R,Technical / Analytics
+4,Excel,Technical / Analytics
+5,Statistics,Technical / Analytics
+6,Data Analysis,Technical / Analytics
+7,Power BI,Business Intelligence
+8,Tableau,Business Intelligence
+9,Looker,Business Intelligence
+10,Requirements Gathering,Business Skills
+11,Stakeholder Management,Business Skills
+12,Business Process Analysis,Business Skills
+13,Process Mapping,Business Skills
+14,Agile,Project / Delivery
+15,Scrum,Project / Delivery
+16,Jira,Project / Delivery
+17,Communication,Communication
+18,Presentation,Communication
+19,Documentation,Communication
